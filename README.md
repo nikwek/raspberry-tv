@@ -4,8 +4,8 @@
 - A good browser (I use Firefox). 
 - [Avahi](https://en.wikipedia.org/wiki/Avahi_(software)) for zeroconf / discoverablility.
 - [NGINX](https://www.raspberrypi.org/documentation/remote-access/web-server/nginx.md) as web server.
-- A python [http server script](https://github.com/librato/raspberry-pi/blob/master/http_server.py). 
-- A tiny [web page](https://github.com/librato/raspberry-pi/blob/master/index.html)
+- A python [http server script](./http_server.py). 
+- A tiny web page
 
 ## To display a web page on the TV:
 
